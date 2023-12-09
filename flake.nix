@@ -23,6 +23,8 @@
       commands = [
         {package = pkgs.lua;}
         {package = pkgs.stylua;}
+        {package = pkgs.rsync;}
+        {package = pkgs.just;}
       ];
 
       env = [];
