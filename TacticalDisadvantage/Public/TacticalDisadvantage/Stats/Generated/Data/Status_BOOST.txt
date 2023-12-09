@@ -1,0 +1,7 @@
+new entry "TACTICALDISADVANTAGE"
+    type "StatusData"
+        data "StatusType" "BOOST"
+        data "Icon" "statIcons_EnemyOfJustice"
+        data "DisplayName" "h597575bag5db1g416egb219g306f276173fc"
+        data "Description" "heec58675g4b80g4fb3ga77agbecfab2e7be8"
+        data "StatusPropertyFlags" "DisableCombatlog;DisableOverhead;IgnoreResting;ApplyToDead"

@@ -1,0 +1,5 @@
+{
+	"RequiredVersion": 5,
+	"ModTable": "TacticalDisadvantage",
+	"FeatureFlags": ["Lua"]
+}
